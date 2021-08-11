@@ -65,30 +65,30 @@ This folder shall contain one or more json files detailing information about the
 ```json
 {
   "0-0-0-0": {
-		point_count: 65341,
-		chunk_size: 6000,
-		chunk_offset: 0
-	},
+    point_count: 65341,
+    chunk_size: 6000,
+    chunk_offset: 0
+  },
   "1-0-0-0": {
-		point_count: 438,
-		chunk_size: 40,
-		chunk_offset: 6000
-	},
+    point_count: 438,
+    chunk_size: 40,
+    chunk_offset: 6000
+  },
   "2-0-1-0": {
-		point_count: 322,
-		chunk_size: 30,
-		chunk_offset: 6040
-	},
+    point_count: 322,
+    chunk_size: 30,
+    chunk_offset: 6040
+  },
   "2-0-1-2": {
-		point_count: 4332,
-		chunk_size: 400,
-		chunk_offset: 6070
-	},
+    point_count: 4332,
+    chunk_size: 400,
+    chunk_offset: 6070
+  },
   "1-0-0-1": {
-		point_count: 56209,
-		chunk_size: 5000,
-		chunk_offset: 11070
-	},
+    point_count: 56209,
+    chunk_size: 5000,
+    chunk_offset: 11070
+  },
   "3-0-0-0": {},
     ...
 }
@@ -118,30 +118,30 @@ Each hierarchy node must contain at least the above attributes, except for an em
 ```json
 {
   "3-0-0-0": {
-		point_count: ...,
-		chunk_size: ...,
-		chunk_offset: ...
-	},
+    point_count: ...,
+    chunk_size: ...,
+    chunk_offset: ...
+  },
   "4-0-0-0": {
-		point_count: ...,
-		chunk_size: ...,
-		chunk_offset: ...
-	},
+    point_count: ...,
+    chunk_size: ...,
+    chunk_offset: ...
+  },
   "4-0-0-1": {
-		point_count: ...,
-		chunk_size: ...,
-		chunk_offset: ...
-	},
+    point_count: ...,
+    chunk_size: ...,
+    chunk_offset: ...
+  },
   "4-0-0-2": {
-		point_count: ...,
-		chunk_size: ...,
-		chunk_offset: ...
-	},
+    point_count: ...,
+    chunk_size: ...,
+    chunk_offset: ...
+  },
   "5-0-2-2": {
-		point_count: ...,
-		chunk_size: ...,
-		chunk_offset: ...
-	}
+    point_count: ...,
+    chunk_size: ...,
+    chunk_offset: ...
+  }
 }
 ```
 
